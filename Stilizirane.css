@@ -1,0 +1,21 @@
+nav{
+    background-color: grey;
+    padding: 5px;
+    text-align: center;
+}
+nav li{
+    display: inline-block;
+    font-size: 16;
+    
+    color: green;
+}
+a{
+    text-decoration: none;
+    padding: 5px;
+
+}
+
+a:hover{
+    background-color: green;
+    color: grey;
+}
